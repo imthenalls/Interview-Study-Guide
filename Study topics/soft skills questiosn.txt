@@ -1,0 +1,103 @@
+
+
+why do i want to be a software developer?
+the problem solving, there are always new problems that need solving and a lot of the thing
+these problems will be unique.
+there is a lot of creativity invovled.
+project based, as a developer ill be working on large or small projcts, ever new project will be with
+a new set of challenges and new things to worry about and learn about
+continous learning- as a devleoper i have to always be on top of new technology trends 
+collaboration - to be a great developer you have to be a great communicator and team player. you collaborate
+with ur peers by sharing knowledge and expanding each others knowledge of best pracitces. you have to work
+with several different departments too. 
+
+
+If needed, how would you go about designing scalable applications? Walk us through your process.
+
+ Example: "You design scalable projects by writing as little code as possible.
+ You also want to reuse as much code as you can while not over or under doing your design.
+ Then break things down into 
+modular sections that can run on multiple or separate systems." 
+soft skills:
+
+. Can you describe the development methodology that you're familiar with?
+
+Hiring managers are looking to understand how a job candidate would 
+fit into their organization's work environment and process, 
+Halpin said. For example, if a candidate comes from an agile background, 
+it will likely be easier for them to adapt to a waterfall or hybrid development methodology.
+"If a candidate hasn't had experience with a specific methodology and
+ is interviewing for a position that uses agile or waterfall,
+ it won't necessarily be a deal-breaker, but the candidate should
+ be able to overcome that objection and explain how they will 
+familiarize themselves with the methodology required," Halpin said. 
+"There are meetups, certifications and books that can help tech professionals learn these." 
+
+
+ Failure isn't the same thing as defeat.
+ Failure is temporary, defeat is permanent. 
+If you want to succeed, you have to learn 
+how to swallow your pride and get out there 
+and not be afraid to make a fool of yourself.
+    You could have all the skills in life that
+ should make you successful, but if you lack one 
+important skill, perseverance, it will all be worthless,
+ because at the first sign of trouble, you'lll give up -
+ and we all will face some amount of trouble in our lives.
+
+I value being approacble and if any1 needs my help they wouldnt
+hesitate to ask me
+
+
+
+
+where do i see myself in 5 years question
+I wil be a mid level software developer leading teams for complex projects, and with some side projects
+in mobile apps and games making me money on the side. 
+
+biggest challenge you faced question
+talk about my computer graphics thing.
+what type of leadership do you prefer?
+collobrative leadership style
+
+why should i hire the other peopel?
+
+talk about webspotifiy
+
+if i had 1 million dollars invested into me
+
+why finance?
+
+"Tell me a little about yourself."
+
+"What kind of work environment do you like best?"
+
+"Why do you want this job?"
+“I’m mostly looking for a nice team of people to work with, 
+more than a specific industry or technology. I applied to your company because you advertised a C++ role, and I have a lot of C++, 
+but what I really care about is the team, and that’s something I have to interview to find out.”
+ 
+
+questions to ask:
+
+how much of your day do u spend coding?
+
+how many meetings do you have every week?
+
+what is the ratio of testers to developers to program managers?
+
+what is the interaction like? how does project planning happen on the team?
+
+ 
+
+i noticed that you use technology x? how do you handle problem y?
+
+why did the product choose to use x protocol over the y protocol? i know it was used
+
+for benefits like a,b,c but many companies choose not to use it because of issue D.
+
+ 
+
+i am very intersted in scalability. did you come in with a background in this or what opportunities are there to learn about it?
+
+im not familiar with technology x, but it sounds like a very interesting solution. could you tell me a bit more about how it works?

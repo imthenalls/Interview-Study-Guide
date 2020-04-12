@@ -1,0 +1,50 @@
+
+General Knowledge of:
+Maven - cards done
+Git - cards done
+Junit and Mockito - cards done
+Logs - cards done
+MapReduce - cards done
+spark  architecture- in my notepad
+REST web services - cards done
+
+
+not sure if needed.
+Scurm/Agile -idk
+Spring MVC -idk
+application deployment procedures - idk
+
+-singleton
+-factory(action mapping)
+-command
+-observer(event listener)
+-builder(writing unit tests)
+-chain of responsibility(exceptions in java)
+-adapter(asList, toString)
+-decorator
+-facade
+-mvc(web frameworks)
+OO Design and Java design patterns
+RDBMS and SQL
+
+binary trees adding and removing -done
+Palindrone aglo - done
+COding stuff:
+
+
+linked lists
+hashtables
+balanced paratheneses
+
+
+Things that would be hard to explain:
+
+
+
+Soft skill questions
+And he likes people that take ownership of their work. If he gives you a problem how much would you ask him for direction
+And if after a month of work he says your implementation is not good enough and you should do it this way. How would you feel
+Why should I hire the other three people
+where do i see myself in 5 years
+biggest challenge you have faced
+talk about projects i did

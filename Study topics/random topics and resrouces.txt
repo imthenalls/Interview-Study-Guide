@@ -1,0 +1,96 @@
+reverse a linked list
+
+add to the middle of singlely linked list
+
+breadthfirst search
+
+depthfirst search
+
+add to binary tree
+
+delete from binary tree
+
+B-tree in general
+
+find prime number
+
+detect cycle in directed graph
+
+find word things 
+
+
+Write a function that determines if a string starts with an upper-case letter A-Z
+
+Write a function that determines the area of a circle given the radius
+
+Add up all the values in an array
+
+recursion 
+
+merge sort
+
+bubble sort
+
+
+How might you design a program that lets people play Monopoly with each other over the internet?
+
+What would be a good data structure for a photo editor?
+
+How would you implement code to operate the elevators in a high rise?
+
+How would you implement the rendering engine of a web browser?
+
+"the app is monitored in production, and alarm notifications are triggered under certain conditions,
+ so I recieve an email/slack notification when the app misbehaves or has too many errors, ensuring a prompt response".
+
+how to know if my code works? 
+	i write tests, unit tests, behavior tests, integration tests, 
+
+what makes a good log?
+	easily searchable
+	knowing your audeince for the logs
+	there should be a point to everything i log
+
+for binary tree cousins, check the level first of each and make sure
+they are on the same level and then check if they are siblings or not
+
+review:
+stacks
+queues
+list
+trees
+
+https://www.braingle.com/brainteasers/teaser.php?op=2&id=7824&comm=0
+http://puzzlepage.blogspot.com/2008/02/crossing-bridge.html
+https://en.wikipedia.org/wiki/Hamiltonian_path
+https://en.wikipedia.org/wiki/Data_compression
+https://en.wikipedia.org/wiki/Shortest_path_problem
+https://en.wikipedia.org/wiki/Euclidean_algorithm
+https://en.wikipedia.org/wiki/Finite-state_machine
+https://en.wikipedia.org/wiki/Model_of_computation
+
+https://en.wikipedia.org/wiki/Regular_expression
+https://en.wikipedia.org/wiki/Greatest_common_divisor
+https://en.wikipedia.org/wiki/Tower_of_Hanoi
+https://en.wikipedia.org/wiki/Software_design_pattern
+https://en.wikipedia.org/wiki/Code_coverage
+https://en.wikipedia.org/wiki/Buffer_overflow
+https://en.wikipedia.org/wiki/Heap_overflow
+https://en.wikipedia.org/wiki/SQL_injection
+https://en.wikipedia.org/wiki/Cross-site_scripting
+http://steve-yegge.blogspot.com/2008/06/done-and-gets-things-smart.html
+"How can you walk through a tree without using recursion?"
+
+"What is virtual function"
+
+https://softwareengineering.stackexchange.com/questions/196185/general-thought-process-for-how-would-you-build-this-website-app-interview-que
+
+http://steve-yegge.blogspot.com/2008/06/done-and-gets-things-smart.html
+
+https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
+
+https://www.toptal.com/software/interview-questions
+
+https://hackernoon.com/what-to-ask-an-interviewer-during-a-tech-interview-865a293e548c
+
+https://github.com/the-akira/Computer-Science-Resources
